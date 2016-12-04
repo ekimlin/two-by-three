@@ -25,4 +25,4 @@ TODO:
 - [ ] Make sure no duplicate letter combinations are tried e.g. 'a and b' and 'b and a'.
 - [ ] Make user input case insensitive.
 - [ ] Check each answer against a dictionary library and output only those that match.
-- [ ] Make output more pretty.
+- [ ] Make output prettier.
